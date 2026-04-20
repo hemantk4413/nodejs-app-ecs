@@ -9,6 +9,7 @@ Rest API Endpoint for get all users: http://localhost:5000/rest/getAllUsers
 GraphQL Endpont: http://localhost:5000/graphql
 
 Query for below scenarios: 
+Query for below scenarios: 
 
 1. Get All Users with query operation
 
